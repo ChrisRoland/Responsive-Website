@@ -37,7 +37,7 @@ ul {
 /*Header*/
 header {
     color: #ffffff;
-    background-color: #35424a;
+    background-color: #4a353e;
     padding-top: 30px;
     min-height: 70px;
     border-bottom: #e8491d 3px solid;
@@ -104,7 +104,7 @@ header a:hover {
 #newsletter {
     padding:15px;
     color: #ffffff;
-    background: #35424a;
+    background: #4a353e;
 }
 
 #newsletter h1 {
