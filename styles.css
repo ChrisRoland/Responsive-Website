@@ -202,3 +202,10 @@ footer {
         margin-bottom: 5px;
     }
 }
+
+@media (min-width: 769px) {
+    #newsletter form {
+        text-align: center;
+        justify-content: center;
+    }
+}
